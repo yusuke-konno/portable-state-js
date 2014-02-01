@@ -1,3 +1,3 @@
 portable-state-js
 =================
-* portable-state-js is javascript based ui state control framework
+* portable-state-js is javaScript-based framework of ui state control
